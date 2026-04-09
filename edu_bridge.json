@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "alex@test.com",
+      "password_hash": "$2a$12$DDXFH4jzeevM1sEGmchH4uvTJ.EnaV2e18QTnnkbgZhF2/XA2IDNq",
+      "user_type": "student",
+      "full_name": "Alex Johnson",
+      "created_at": "2026-04-09T08:39:21.551Z"
+    },
+    {
+      "id": 2,
+      "email": "lrhariniharini@gmail.com",
+      "password_hash": "$2a$12$fF7gnJWjvXtSb4y5Fj8Q9u40Tau9gUFwAgzGq4oXqS04oXzPCCXfO",
+      "user_type": "student",
+      "full_name": "harini",
+      "created_at": "2026-04-09T08:57:47.008Z"
+    },
+    {
+      "id": 3,
+      "email": "harinilrharini@gmail.com",
+      "password_hash": "$2a$12$atlFGOCkJW2QLJ2vVT2G9.oHlPyIM9v1rAkmCfmO.v4B4S/JoBAde",
+      "user_type": "student",
+      "full_name": "harini",
+      "created_at": "2026-04-09T09:00:32.193Z"
+    },
+    {
+      "id": 4,
+      "email": "rithikayuvarajpurshoth@gmail.com",
+      "password_hash": "$2a$12$iBdqjh1K9uVGYSC6aKOOjuzCqX8KcnDC6UnMdYHR2oOrAGYMZSrH2",
+      "user_type": "student",
+      "full_name": "HARINI",
+      "created_at": "2026-04-09T10:03:02.920Z"
+    },
+    {
+      "id": 5,
+      "email": "joel@gmail.com",
+      "password_hash": "$2a$12$ILOlcp15PvHN0M0K5Iden.ypVC4ACgmtrYZ5Dp5vMItpyCGihExmC",
+      "user_type": "student",
+      "full_name": "joel",
+      "created_at": "2026-04-09T19:19:50.739Z"
+    }
+  ],
+  "student_profiles": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "bio": "",
+      "education": "",
+      "skills": [
+        "Python",
+        "SQL",
+        "React"
+      ],
+      "interests": []
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "bio": "hi ji",
+      "education": "SATHYABAMA",
+      "skills": [
+        "PYTHON JAVA"
+      ],
+      "interests": [
+        "AI engineer"
+      ]
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "bio": "",
+      "education": "",
+      "skills": [],
+      "interests": []
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "bio": "student",
+      "education": "sathyabama ",
+      "skills": [
+        "python java ml"
+      ],
+      "interests": [
+        "ai ml web development full stack"
+      ]
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "bio": "",
+      "education": "",
+      "skills": [],
+      "interests": []
+    }
+  ],
+  "company_profiles": [],
+  "projects": [],
+  "internships": [],
+  "skill_assessments": []
+}
